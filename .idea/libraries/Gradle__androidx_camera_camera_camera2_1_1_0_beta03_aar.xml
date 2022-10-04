@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.camera:camera-camera2:1.1.0-beta03@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../Android-Mapbox-Demo/.gradle/4.8/caches/transforms-3/3d0a1ae334754eef9dc276f507625058/transformed/camera-camera2-1.1.0-beta03/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Android-Mapbox-Demo/.gradle/4.8/caches/transforms-3/3d0a1ae334754eef9dc276f507625058/transformed/camera-camera2-1.1.0-beta03/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Android-Mapbox-Demo/.gradle/4.8/caches/transforms-3/3d0a1ae334754eef9dc276f507625058/transformed/camera-camera2-1.1.0-beta03/res" />
+      <root url="file://$PROJECT_DIR$/../Android-Mapbox-Demo/.gradle/4.8/caches/transforms-3/3d0a1ae334754eef9dc276f507625058/transformed/camera-camera2-1.1.0-beta03/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Android-Mapbox-Demo/.gradle/4.8/caches/modules-2/files-2.1/androidx.camera/camera-camera2/1.1.0-beta03/99e9fffc5bc32fca4879758b49afc5d397299fd2/camera-camera2-1.1.0-beta03-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
